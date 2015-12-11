@@ -1,0 +1,22 @@
+{
+  "name": "import-dir",
+  "version": "0.0.1",
+  "description": "ES6 helper to import directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercloud/import-dir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypercloud/import-dir/issues"
+  },
+  "homepage": "https://github.com/hypercloud/import-dir#readme",
+  "dependencies": {
+    "require-dir": "^0.3.0"
+  }
+}
