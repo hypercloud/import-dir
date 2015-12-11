@@ -2,7 +2,7 @@
 
 let importDir = require('..');
 
-let modules = importDir('./test/modules');
+let modules = importDir('./modules');
 
 modules.moduleA();
 modules.moduleB.run();
