@@ -10,8 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/hypercloud/import-dir.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "ECMAScript 2015",
+    "require-dir"
+  ],
+  "author": "HyperCloud Studio <info@nodeunify.com>",
+  "contributors": [
+    "Junxiang Wei",
+    "Zengliang He"
+  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hypercloud/import-dir/issues"
   },
